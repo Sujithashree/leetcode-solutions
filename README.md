@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Sujithashree/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
