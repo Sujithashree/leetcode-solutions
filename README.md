@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Sujithashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/Sujithashree/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [3870-count-commas-in-range](https://github.com/Sujithashree/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -70,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Sujithashree/leetcode-solutions/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Sujithashree/leetcode-solutions/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Sujithashree/leetcode-solutions/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
