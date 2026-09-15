@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0398-random-pick-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0697-degree-of-an-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0697-degree-of-an-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sujithashree/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Reservoir Sampling
 |  |
@@ -109,4 +112,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/0398-random-pick-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
