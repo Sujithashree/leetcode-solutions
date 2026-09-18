@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0697-degree-of-an-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sujithashree/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/Sujithashree/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -149,9 +151,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujithashree/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0414-third-maximum-number) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
