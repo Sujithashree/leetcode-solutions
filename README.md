@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [1137-n-th-tribonacci-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sujithashree/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sujithashree/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0697-degree-of-an-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
