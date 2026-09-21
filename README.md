@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0398-random-pick-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0697-degree-of-an-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [1137-n-th-tribonacci-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Sujithashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0697-degree-of-an-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
