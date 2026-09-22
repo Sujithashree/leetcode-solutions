@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0869-reordered-power-of-2](https://github.com/Sujithashree/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
+| [0891-sum-of-subsequence-widths](https://github.com/Sujithashree/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [1137-n-th-tribonacci-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Sujithashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/Sujithashree/leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Sujithashree/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0891-sum-of-subsequence-widths](https://github.com/Sujithashree/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sujithashree/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/Sujithashree/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/Sujithashree/leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Sujithashree/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0891-sum-of-subsequence-widths](https://github.com/Sujithashree/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
 ## Segment Tree
 |  |
 | ------- |
