@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Sujithashree/leetcode-solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0835-image-overlap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Sujithashree/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sujithashree/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/Sujithashree/leetcode-solutions/tree/master/0870-advantage-shuffle) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujithashree/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
