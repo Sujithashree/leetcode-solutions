@@ -269,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+## Database
+|  |
+| ------- |
+| [3570-find-books-with-no-available-copies](https://github.com/Sujithashree/leetcode-solutions/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
