@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sujithashree/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0799-champagne-tower](https://github.com/Sujithashree/leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sujithashree/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0888-fair-candy-swap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujithashree/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
