@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Sujithashree/leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bidirectional Search
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
