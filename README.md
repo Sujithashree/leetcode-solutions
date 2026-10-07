@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0313-super-ugly-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sujithashree/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sujithashree/leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0799-champagne-tower](https://github.com/Sujithashree/leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sujithashree/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sujithashree/leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
