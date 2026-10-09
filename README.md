@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/Sujithashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Breadth-First Search
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sujithashree/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/Sujithashree/leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Sujithashree/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sujithashree/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Timsort
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Increasing Subsequence
 |  |
