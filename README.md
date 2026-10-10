@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujithashree/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Sujithashree/leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujithashree/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujithashree/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujithashree/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujithashree/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujithashree/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/Sujithashree/leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sujithashree/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujithashree/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Segment Tree
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Sujithashree/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sujithashree/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujithashree/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Timsort
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sujithashree/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujithashree/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Recursion
 |  |
 | ------- |
