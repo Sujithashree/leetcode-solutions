@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Sujithashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Sujithashree/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sujithashree/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Sujithashree/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Array
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Sujithashree/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/Sujithashree/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujithashree/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sujithashree/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sujithashree/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sujithashree/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Minimax
 |  |
 | ------- |
@@ -344,4 +349,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
