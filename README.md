@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Sujithashree/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/Sujithashree/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Sujithashree/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujithashree/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujithashree/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
