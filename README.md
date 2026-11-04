@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujithashree/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Sujithashree/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sujithashree/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sujithashree/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujithashree/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Sujithashree/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujithashree/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Sujithashree/leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sujithashree/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sujithashree/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sujithashree/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
