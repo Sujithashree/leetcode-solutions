@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0667-beautiful-arrangement-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sujithashree/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Sujithashree/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 | [0891-sum-of-subsequence-widths](https://github.com/Sujithashree/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sujithashree/leetcode-solutions/tree/master/0134-gas-station) |
+| [0670-maximum-swap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0846-hand-of-straights](https://github.com/Sujithashree/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sujithashree/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/Sujithashree/leetcode-solutions/tree/master/0870-advantage-shuffle) |
