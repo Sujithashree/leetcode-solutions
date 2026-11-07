@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sujithashree/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0667-beautiful-arrangement-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0836-rectangle-overlap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Sujithashree/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 | [0891-sum-of-subsequence-widths](https://github.com/Sujithashree/leetcode-solutions/tree/master/0891-sum-of-subsequence-widths) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sujithashree/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0667-beautiful-arrangement-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0697-degree-of-an-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
