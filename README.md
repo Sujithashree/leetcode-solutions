@@ -413,11 +413,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sujithashree/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
