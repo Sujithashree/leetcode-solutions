@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Sujithashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Sujithashree/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sujithashree/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sujithashree/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Sujithashree/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sujithashree/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sujithashree/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sujithashree/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1267-count-servers-that-communicate](https://github.com/Sujithashree/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sujithashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sujithashree/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujithashree/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sujithashree/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sujithashree/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujithashree/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sujithashree/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
