@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Sujithashree/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0313-super-ugly-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
