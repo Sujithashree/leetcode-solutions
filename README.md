@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0313-super-ugly-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
