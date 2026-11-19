@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0401-binary-watch](https://github.com/Sujithashree/leetcode-solutions/tree/master/0401-binary-watch) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sliding Window
 |  |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0401-binary-watch](https://github.com/Sujithashree/leetcode-solutions/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Database
 |  |
