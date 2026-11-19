@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Sujithashree/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sujithashree/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Sujithashree/leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/Sujithashree/leetcode-solutions/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sujithashree/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sujithashree/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0401-binary-watch](https://github.com/Sujithashree/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sujithashree/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sliding Window
 |  |
