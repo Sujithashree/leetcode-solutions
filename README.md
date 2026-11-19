@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/Sujithashree/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sujithashree/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0400-nth-digit](https://github.com/Sujithashree/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sujithashree/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0888-fair-candy-swap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
