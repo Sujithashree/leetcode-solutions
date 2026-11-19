@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Sujithashree/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Sujithashree/leetcode-solutions/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/Sujithashree/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sujithashree/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Sujithashree/leetcode-solutions/tree/master/0447-number-of-boomerangs) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Sujithashree/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0846-hand-of-straights](https://github.com/Sujithashree/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Sujithashree/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0729-my-calendar-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sujithashree/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Sujithashree/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Divide and Conquer
 |  |
