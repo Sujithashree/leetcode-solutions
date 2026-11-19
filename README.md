@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0404-sum-of-left-leaves](https://github.com/Sujithashree/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1267-count-servers-that-communicate](https://github.com/Sujithashree/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sujithashree/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/Sujithashree/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sujithashree/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/Sujithashree/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Sujithashree/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sujithashree/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Sujithashree/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sujithashree/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
