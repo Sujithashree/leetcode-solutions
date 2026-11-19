@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Sujithashree/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Sujithashree/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Sujithashree/leetcode-solutions/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Sujithashree/leetcode-solutions/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/Sujithashree/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/Sujithashree/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujithashree/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sujithashree/leetcode-solutions/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/Sujithashree/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0846-hand-of-straights](https://github.com/Sujithashree/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sujithashree/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sujithashree/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sujithashree/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
