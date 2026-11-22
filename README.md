@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Sujithashree/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1267-count-servers-that-communicate](https://github.com/Sujithashree/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sujithashree/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sujithashree/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bidirectional Search
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sujithashree/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sujithashree/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sujithashree/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sujithashree/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sujithashree/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sujithashree/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sujithashree/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1882-process-tasks-using-servers](https://github.com/Sujithashree/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sujithashree/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sujithashree/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sujithashree/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Sujithashree/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1267-count-servers-that-communicate](https://github.com/Sujithashree/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1861-rotating-the-box](https://github.com/Sujithashree/leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sujithashree/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sujithashree/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Sujithashree/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
@@ -581,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Sujithashree/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sujithashree/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
