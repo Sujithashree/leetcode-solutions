@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sujithashree/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujithashree/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Sujithashree/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujithashree/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sujithashree/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sujithashree/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sujithashree/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sujithashree/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujithashree/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sujithashree/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujithashree/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujithashree/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Sujithashree/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujithashree/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sujithashree/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sujithashree/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Rolling Hash
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Sujithashree/leetcode-solutions/tree/master/0869-reordered-power-of-2) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujithashree/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sujithashree/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujithashree/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujithashree/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
@@ -598,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sujithashree/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujithashree/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
