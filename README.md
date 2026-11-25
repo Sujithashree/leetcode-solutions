@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sujithashree/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sujithashree/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sujithashree/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sujithashree/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/Sujithashree/leetcode-solutions/tree/master/0705-design-hashset) |
+| [3934-smallest-unique-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sujithashree/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujithashree/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sujithashree/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujithashree/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -609,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sujithashree/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Sujithashree/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
